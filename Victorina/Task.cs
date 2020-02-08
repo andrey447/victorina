@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 namespace Victorina
 { 
     [Serializable]
+
     public class Task
     {
         public int n;
